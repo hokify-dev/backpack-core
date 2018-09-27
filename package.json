@@ -14,14 +14,14 @@
   "dependencies": {
     "@babel/core": "^7.1.0",
     "babel-loader": "^8.0.2",
-    "babel-preset-backpack": "^0.8.0-0",
-    "cross-spawn": "^5.0.1",
-    "friendly-errors-webpack-plugin": "^1.6.1",
+    "babel-preset-backpack": "github:hokify-dev/babel-preset-backpack",
+    "cross-spawn": "^6.0.5",
+    "friendly-errors-webpack-plugin": "^1.7.0",
     "json-loader": "^0.5.7",
-    "nodemon": "^1.11.0",
-    "ramda": "^0.23.0",
-    "source-map-support": "^0.4.15",
-    "webpack": "^4.19.1",
+    "nodemon": "^1.18.4",
+    "ramda": "^0.25.0",
+    "source-map-support": "^0.5.9",
+    "webpack": "^4.20.2",
     "webpack-node-externals": "^1.7.2"
   }
 }
